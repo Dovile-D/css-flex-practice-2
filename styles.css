@@ -10,10 +10,6 @@
 }
 
 .left {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: start;
     width: 60%;
     background-color: red;
     height: 100%;
